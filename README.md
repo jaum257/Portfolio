@@ -1,6 +1,8 @@
 
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio
+
+Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/jaum257/Portfolio/blob/main/Captura%20de%20tela%202025-02-02%20175246.png?raw=true)
 
